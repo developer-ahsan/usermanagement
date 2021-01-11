@@ -1,0 +1,76 @@
+.TechnicalDetail1 td{
+    width: 50%;
+    font-size: smaller;
+}
+.TechnicalDetail1 td a{
+       font-size: small;
+}
+.TechnicalDetail1 p{
+       font-size: small;
+        margin-top: 50px;
+}
+.TechnicalDetail1 p a{
+       font-size: small;
+       font-weight: bold;
+      
+}
+.TechnicalDetail1 p a:hover{
+       font-size: small;
+       color:#2084FF;
+       text-decoration: none;
+}
+.TechnicalDetail1 td a:hover{
+       font-size: small;
+       color:#2084FF;
+       text-decoration: none;
+}
+.TechnicalDetail{
+    background-color: #F3F3F3;
+}
+.nav-tabs {
+    border-bottom: none!important;
+}
+.nav-border li{
+    
+    border-right: 1px solid lightgray;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 0px 10px 0px 10px;
+    font-size: smaller;
+    font-weight: bolder;
+    color:grey
+    
+    
+}
+.description-row{
+    border-bottom: 1px solid lightgray;
+    padding: 0px 10px 0px 10px;
+}
+
+.detailpage-div{
+    
+    padding: 0px; border-bottom: 1px solid lightgray;
+}
+.Aplus-row{
+ border-bottom: 1px solid lightgray;margin-bottom: 30px;   
+}
+.product-detail-tab .tab_content {
+    border-bottom: 0px solid #e1e1e1;
+    padding: 20px 0;
+}
+input:focus, textarea:focus{
+        border:solid 2px #5bc0de!important;
+}
+
+.star-rating {
+  line-height:32px;
+  font-size:1.25em;
+}
+
+.star-rating .fa-star{
+    color: #ffe400;
+}
+
+.owl-carousel .owl-item img {
+    height: 466px !important;
+}
